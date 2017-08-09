@@ -9,6 +9,11 @@ setup(
         'sklearn',
         'matplotlib',
     ],
-    packages=['shapelets'],
-    package_dir={'shapelets': 'lib/python3.6/site-packages/shaplets-python'}
+    packages=['shapelets',
+              'shapelets.classification',
+              'shapelets.network',
+              'shapelets.test',
+              'shapelets.util'
+             ]
+    
 )
