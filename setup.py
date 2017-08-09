@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='shapeletsmm',
+    name='shapelets-lts',
     version='0.1.0',
     install_requires=[
         'numpy',
@@ -9,5 +9,5 @@ setup(
         'sklearn',
         'matplotlib',
     ],
-    packages=['shapeletsmm']
+    packages=['shapelets']
 )
