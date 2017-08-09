@@ -10,5 +10,5 @@ setup(
         'matplotlib',
     ],
     packages=['shapelets'],
-    package_dir={'': 'shaplets-python'}
+    package_dir={'': '/Users/Mo/anaconda/lib/python3.6/site-packages/shaplets-python'}
 )
