@@ -9,5 +9,5 @@ setup(
         'sklearn',
         'matplotlib',
     ],
-    packages=['shapelets']
+    packages=['shapeletsmm']
 )
