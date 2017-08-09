@@ -8,7 +8,7 @@ setup(
         'scipy',
         'sklearn',
         'matplotlib',
-    ],
+    ],    
     packages=['shapelets',
               'shapelets.classification',
               'shapelets.network',
