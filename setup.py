@@ -10,5 +10,5 @@ setup(
         'matplotlib',
     ],
     packages=['shapelets'],
-    package_dir={'shapelets': 'shaplets-python'}
+    package_dir={'shapelets': 'shaplets-python/'}
 )
